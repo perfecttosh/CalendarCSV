@@ -10,7 +10,7 @@ idusers,email,login,password,firstname,lastname
 9,bomber@mail.com,ффф,db24808de032b66d06636425f69e425018ce63bd094dd168cd98729462a0e1e8,amerima,kurut
 10,test1@gmail.com,ivanov,1234,Ivan,Ivanov
 11,john.doe@example.com,johndoe,password123,John,Doe
-12,anonymous@example.com,anon,securepassword,,
+12,anonymous@example.com,anon,securepassword,,Unknown
 13,unique@mail.com,uniqueuser,unique123,Unique,User
 14,test.user@example.com,testuser,testpassword,Test,User
 15,verylongemailaddress@exampledomain.com,longemailuser,longpassword,Long,Email
