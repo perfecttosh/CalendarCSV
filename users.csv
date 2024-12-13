@@ -5,13 +5,13 @@ idusers,email,login,password,firstname,lastname
 4,bobka@gmail.com,bobka,bobka123,bobka,Pyos
 5,Shmackdat@gmail.com,den_koro,123456kakaola,Denis,Polev
 6,liza.scandicks.postavki.oguzok@gmail.com,scandic,scandicscandic,Scandic,Vkusniy
-7,sss@gmail.com,users,4dfab3b80be3cbd237dd54f044a198e07b6ec225bf875d59848efef80724a4eb,,
-8,svoparen@gmail.com,1,6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b,,
-9,,ффф,db24808de032b66d06636425f69e425018ce63bd094dd168cd98729462a0e1e8,,
+7,sss@gmail.com,users,4dfab3b80be3cbd237dd54f044a198e07b6ec225bf875d59848efef80724a4eb,ss,rang
+8,svoparen@gmail.com,1,6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b,yuki,miliom
+9,bomber@mail.com,ффф,db24808de032b66d06636425f69e425018ce63bd094dd168cd98729462a0e1e8,amerima,kurut
 10,test1@gmail.com,ivanov,1234,Ivan,Ivanov
 11,john.doe@example.com,johndoe,password123,John,Doe
 12,anonymous@example.com,anon,securepassword,,
-13,,uniqueuser,unique123,Unique,User
+13,unique@mail.com,uniqueuser,unique123,Unique,User
 14,test.user@example.com,testuser,testpassword,Test,User
 15,verylongemailaddress@exampledomain.com,longemailuser,longpassword,Long,Email
 16,alice@example.com,alice,alicepass,Alice,Wonderland
